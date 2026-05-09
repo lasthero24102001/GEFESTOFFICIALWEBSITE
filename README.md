@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![GEFEST Logo](https://i.ibb.co/fzT2vj83/logo-gefest.png)
+![GEFEST Logo](logo.png)
 
 **Профессиональная кухонная техника белорусского бренда GEFEST**
 
